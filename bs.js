@@ -26,3 +26,5 @@ function bs(code) {
     }
     return chatBox;
 }
+
+window.chatBox = chatBox;

@@ -22,6 +22,8 @@ MITライセンスを使用しています。
 `bs("log");`
 
 ***コードの返り値は、オブジェクトとなります。***
+***オブジェクト***
+`window.chatBox`
 
 ### 使い方
 
@@ -50,7 +52,9 @@ It uses the MIT license.
 ***Log***
 `bs("log");`
 
-***The return value of the code is an object.***
+***The code returns an object.***
+***Object***
+`window.chatBox`
 
 ### How to use
 
